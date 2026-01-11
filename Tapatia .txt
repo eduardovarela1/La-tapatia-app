@@ -1,0 +1,24 @@
+foodtruck-app/
+  backend/
+    server.js
+    routes/
+      menu.js
+      orders.js
+    models/
+      menuItem.js
+      order.js
+  frontend/
+    package.json
+    next.config.js
+    pages/
+      _app.js
+      index.js
+      menu.js
+      checkout.js
+      admin/
+        index.js
+    components/
+      Layout.js
+      MenuList.js
+      Cart.js
+    styles.css
